@@ -10,6 +10,7 @@ problem's solution plus a short writeup on the approach and why it works.
 | 11 | Container With Most Water | Medium | Two pointers | [`0011-container-with-most-water`](./0011-container-with-most-water) |
 | 334 | Increasing Triplet Subsequence | Medium | Greedy tracking | [`0334-increasing-triplet-subsequence`](./0334-increasing-triplet-subsequence) |
 | 443 | String Compression | Medium | Two pointers, in-place | [`0443-string-compression`](./0443-string-compression) |
+| 1679 | Max Number of K-Sum Pairs | Medium | Two pointers, sorted array | [`1679-max-number-of-k-sum-pairs`](./1679-max-number-of-k-sum-pairs) |
 
 ## Setup
 
