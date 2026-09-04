@@ -8,6 +8,7 @@ problem's solution plus a short writeup on the approach and why it works.
 | # | Problem | Difficulty | Pattern | Solution |
 |---|---------|------------|---------|----------|
 | 334 | Increasing Triplet Subsequence | Medium | Greedy tracking | [`0334-increasing-triplet-subsequence`](./0334-increasing-triplet-subsequence) |
+| 443 | String Compression | Medium | Two pointers, in-place | [`0443-string-compression`](./0443-string-compression) |
 
 ## Setup
 
